@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **blind image deconvolution**
 
-- 🌱 I’m currently learning **deep learning and PyTorch**
+- 🌱 I’m currently learning **deep learning,PyTorch and computer vision**
 
 - 👯 I’m looking to collaborate on **deep learning projects**
 
