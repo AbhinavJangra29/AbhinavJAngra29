@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">Interested in machine learning</h3>
+<h3 align="center">Interested in machine learning and making fullstack apps incorporating ML</h3>
 
 <img align="right" alt="Walter White Cooking" width="400" src="https://media1.tenor.com/images/a2275664d542e8c76b89086ed9d2327f/tenor.gif">
 
@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on **blind image deconvolution**
 
-- 🌱 I’m currently learning **deep learning,PyTorch and computer vision**
+- 🌱 I’m currently learning **fullstack webdev and machine learning**
 
-- 👯 I’m looking to collaborate on **deep learning projects**
+- 👯 I’m looking to collaborate on **fullstack and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhinavJangra29](https://github.com/AbhinavJangra29)
 
 - 📫 How to reach me **abhinavjangra29@gmail.com**
 
-- ⚡ Fun fact **I think I write good jokes**
+- ⚡ Fun fact **I make good badjokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
