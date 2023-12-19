@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **fullstack webdev and machine learning**
 
-- 👯 I’m looking to collaborate on **fullstack and ML**
+- 👯 I’m looking to collaborate on **fullstack ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhinavJangra29](https://github.com/AbhinavJangra29)
 
